@@ -1,0 +1,2 @@
+# SchedulingAPICaller
+定时访问配置的API，以达到API定时运行的目标，同时支持对这些API进行监控和告警处理
