@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /schedulingAPI
+
+spring:
+  application:
+    name: "schedulingAPICaller"         # 程序name，建议配置，方便统一的服务管理
+  profiles:
+    active: dev
